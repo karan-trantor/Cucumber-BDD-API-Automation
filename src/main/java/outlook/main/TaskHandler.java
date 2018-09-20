@@ -14,8 +14,8 @@ import microsoft.exchange.webservices.data.credential.WebCredentials;
 import microsoft.exchange.webservices.data.property.complex.MessageBody;
 
 public class TaskHandler {
-	private static final String OUTLOOK_EMAIL = "Harpreet.Singh@hbgusa.com";
-	private static final String OUTLOOK_PASS = "NDsd2653";
+	private static final String OUTLOOK_EMAIL = "XXXX";
+	private static final String OUTLOOK_PASS = "XXXX";
 	private static final String LIFERAY_EMAIL = "email";
 	private static final String LIFERAY_PASS = "pass";
 	private static final String EWS_URL = "https://outlook.office365.com/EWS/Exchange.asmx";
